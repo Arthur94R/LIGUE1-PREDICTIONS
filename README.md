@@ -92,5 +92,5 @@ Prédire du foot est **très difficile** :
 
 ## 👨‍💻 Auteur
 
-Arthur - Master 1 AI & Big Data  
-Décembre 2024
+RONDEAU Arthur & NACEUR Hella - Master 1 AI & Big Data  
+Décembre 2025
