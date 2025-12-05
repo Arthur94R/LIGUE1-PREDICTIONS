@@ -1,0 +1,14 @@
+Home_buts_marques
+Away_buts_marques
+Home_buts_concedes
+Away_buts_concedes
+Home_victoires
+Away_victoires
+Home_nuls
+Away_nuls
+Home_defaites
+Away_defaites
+Home_tirs
+Away_tirs
+Home_tirs_cadres
+Away_tirs_cadres

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environnements
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Données (optionnel si tu veux garder les CSV)
+# data/raw/*.csv
+# data/interim/*.csv
+# data/processed/*.csv
+
+# Modèles (gros fichiers, optionnel)
+# models/*.pkl
